@@ -1,0 +1,13 @@
+{
+  "name": "02-client-rendering",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "live-server --verbose --no-browser"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "dependencies": {
+    "nanoid": "^5.0.0"
+  }
+}
